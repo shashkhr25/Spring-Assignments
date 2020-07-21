@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.cg.cdao&apos; to &apos;com.cg.dao&apos;&#x0D;&#x0A;- Original project: &apos;11.SpringJpaAssignment1Task2&apos;&#x0D;&#x0A;- Original element: &apos;11.SpringJpaAssignment1Task2/src/com.cg.cdao&apos;&#x0D;&#x0A;- Renamed element: &apos;11.SpringJpaAssignment1Task2/src/com.cg.dao&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.cg.cdao&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.cg.cdao" name="com.cg.dao" qualified="false" references="true" stamp="1595261414885" textual="false" version="1.0"/>
+</session>
