@@ -10,7 +10,7 @@
 		•	To return the injected message
 		Service bean have to be initialized lazily
 	
-	 Task 3 - Develop a Spring Application . The service having the methods defined in the interface. The Service implementation having the dependency List and it is injected    	     by spring IOC
+	 Task 3 - Develop a Spring Application . The service having the methods defined in the interface. The Service implementation having the dependency List and it is injected by spring IOC
 		•	Search the given string from the injected List
 		•	Search the String from the injected list that starts with the given string
 		•	return all the strings from the injected list
