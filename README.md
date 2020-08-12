@@ -15,6 +15,10 @@
 		•	Search the String from the injected list that starts with the given string
 		•	return all the strings from the injected list
 
+	Task 4 - Create a Spring Core Application . The service having the method to find an Employee for the given Employee ID from the injected map. The Map is injected to the service using constructor.
+	Create the Service Interface and its implementation
+
+
 ## Sprint Core Assignment 2
 	Task 1: Develop a spring application , The service having a method to display the value for the property name from the injected Properties. The injected Properties instance have the properties from the file cg.properties.
 
