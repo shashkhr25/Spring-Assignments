@@ -19,10 +19,10 @@
 	Task 1: Develop a spring application , The service having a method to display the value for the property name from the injected Properties. The injected Properties instance have the properties from the file cg.properties.
 
 	Task 2: Develop a spring application. The service having a method to return List<Emp> for the employees joined after the given date from the injected Set<Emp>.
-The Entity class Emp have LocalDate field. Develop a PropertyEditor to convert the string from xml to LocalDate.This project have two xml files
+	The Entity class Emp have LocalDate field. Develop a PropertyEditor to convert the string from xml to LocalDate.This project have two xml files
 
 	Task 3: Re do the Task1 from CoreAssignment1 using annotations.
-Dao Implementations
+	Dao Implementations
 	
 	Task 4: Redo the Core Assignment2 using annotation
 	
